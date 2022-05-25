@@ -1,0 +1,1 @@
+Repository to records answers about project Shell, basics
