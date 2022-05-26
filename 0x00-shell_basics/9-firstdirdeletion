@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir /tmp/my_first_directory/ --igonre-fail-on-non-empty
+rmdir /tmp/my_first_directory/
