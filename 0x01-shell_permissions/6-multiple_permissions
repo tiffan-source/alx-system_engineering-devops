@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 441 hello
+chmod u+x,g+x,o+r hello
