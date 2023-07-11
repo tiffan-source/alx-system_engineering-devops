@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -regex *.js -delete
+find . -name *.js -delete
